@@ -1,0 +1,27 @@
+h1{color:white;
+font-family:Helvetica, San-serif}
+h2{color:#854442;
+  font-size:20px;
+font-family:Helvetica, San-serif}
+h3{color:#4b3832;
+  font-size:15px;
+  font-family:Helvetica, San-serif;}
+h4{color:#4b3832;
+   font-weight:normal;
+  font-size:15px;
+  font-family:Helvetica, San-serif;}
+body{font-family:helvetica;
+  font-size: 12px;
+color:#4b3832}
+a:link {color: white;}
+
+.leftcolumn{
+  background-color:#be9b7b;
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 800px}
+
+.rightcolumn{float: right;
+  width: 70%;
+height:800px}
