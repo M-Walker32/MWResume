@@ -22,6 +22,6 @@ a:link {color: white;}
   padding: 10px;
   height: 800px}
 
-.rightcolumn{float: right;
+.rightcolumn{background-color:#F8F8F8; float: right;
   width: 70%;
 height:800px}
