@@ -15,12 +15,17 @@ body{font-family:helvetica;
 color:#4b3832}
 a:link {color: white;}
 
+.Experience {padding: 4px}
+.Contact {padding: 4px}
+.Skills {padding: 4px}
+.Education {padding: 4px}
+
 .leftcolumn{
   background-color:#be9b7b;
   float: left;
   width: 24%;
   height: 800px}
 
-.rightcolumn{background-color:#F8F8F8; padding: 4px; float: right;
+.rightcolumn{background-color:#F8F8F8; float: right;
   width: 75%;
 height:800px}
